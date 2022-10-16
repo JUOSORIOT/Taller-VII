@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "81437798347",
+    "firebase_url": "https://krunch-abf73-default-rtdb.firebaseio.com",
+    "project_id": "krunch-abf73",
+    "storage_bucket": "krunch-abf73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81437798347:android:26c82b4d1f42bc51afd04e",
+        "android_client_info": {
+          "package_name": "com.pethub.krunch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81437798347-ur7r9adh4gs2g4a77msf3uhb6ag1ijel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqj6ReKtDBY9-eakiMqq2THY_JI-3sTx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81437798347-ur7r9adh4gs2g4a77msf3uhb6ag1ijel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
